@@ -25,7 +25,7 @@ function App() {
 
      <p>footer: this is made by @Saad</p>
 
-     <p>this is form musab:{counter}</p>
+     <p>this is cfvgbhjk musab:{counter}</p>
 
     </>
   )
