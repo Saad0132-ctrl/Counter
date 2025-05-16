@@ -18,11 +18,15 @@ function App() {
   }
   return (
     <>
-     <h1>This is first project</h1>
+     <h1>This is counter project</h1>
      <h3>counter value: {counter}</h3>
      <button onClick={addValue}>Add Value:{counter}</button> <br /> <br />
      <button onClick={removeValue}>Remove value</button>
+<<<<<<< HEAD
      <p>footer: this is made by @Saad</p>
+=======
+     <p>this is form musab:{counter}</p>
+>>>>>>> origin/saad-branch
     </>
   )
 }
